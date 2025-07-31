@@ -1,0 +1,103 @@
+*{
+    background-color: black;
+}
+.logo img{
+    width: 60px;
+}
+.flex{
+display: flex;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.menu {
+    gap: 40px;
+    list-style-type: none;
+  margin-left: 100%;
+}
+.red-border{
+    border: 2px solid red;
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.hero-info{
+    color: #fff;
+    font-size: 50px;
+    margin-left: 10%;
+    margin-top: -3%;
+}
+.hero-detils{
+    color: #fff;
+    margin-left: 10%;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.hero-detils2{
+    color: #fff;
+    width: 45%;
+    margin-left: 10%;
+    text-align: justify;
+    
+}
+.hero-img img{
+    width: 40%;
+    float: right;
+    margin-top: -42%;
+}
+.hero-image img{
+    width: 50%;
+    margin-top: 5%;
+}
+.hero-detils3{
+    color: #fff;
+    float: right;
+    margin-top: -50%;
+    font-size: 16px;
+    margin-right: 4%;
+}
+.red-border2{
+    border: 3px solid red;
+    width: 90%;
+    float: right;
+    margin-top: -0%;
+    margin-right: -50px;
+    
+}
+.p1{
+    color: #fff;
+    float: right;
+    margin-top: -40%;
+    width: 40%;
+    text-align: justify;
+     margin-right: 5%;
+}
+.p2{
+     color: #fff;
+    float: right;
+    margin-top: -30%;
+    width: 40%;
+    text-align:justify ;
+     margin-right: 5%;
+}
+.p3{
+     color: #fff;
+    float: right;
+    margin-top: -20%;
+    width: 40%;
+    text-align: justify;
+    margin-right: 5%;
+}
+.footer-link ul {
+    margin-left: 20%;
+    padding: 5%;
+
+    
+}
+
+
+
+
+
